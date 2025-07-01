@@ -1,0 +1,5 @@
+ClaimID,PatientName,DateOfService,ProcedureCode,AmountCharged,AmountPaid
+C001,John Doe,2024-12-01,P123,500,450
+C002,Jane Smith,invalid-date,P125,300,300
+C003,,2025-01-10,P128,200,300
+C001,Bob,2024-12-01,P123,500,450

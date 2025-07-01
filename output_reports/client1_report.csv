@@ -1,0 +1,5 @@
+ClaimID,Status,Errors
+C001,Invalid ❌,Duplicate ClaimID: C001
+C002,Invalid ❌,Invalid DateOfService
+C003,Invalid ❌,Missing PatientName
+C001,Invalid ❌,Duplicate ClaimID: C001
