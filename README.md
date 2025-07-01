@@ -30,7 +30,8 @@ HealthcareClaimsValidator/
 ```bash
 python main.py
 
-🧠 Skills Demonstrated
+```
+## 🧠 Skills Demonstrated
    ♦️Data validation logic
    ♦️File handling in Python
    ♦️Real-world business rule simulation
